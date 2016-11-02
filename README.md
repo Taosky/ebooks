@@ -31,9 +31,3 @@
 
 9.it2048/free-programming-books-zh_CN
 >[it2048/free-programming-books-zh_CN](https://github.com/it2048/free-programming-books-zh_CN)
-
-8.it2048
-<p>https://github.com/it2048/free-programming-books-zh_CN</p>
-
-
-
