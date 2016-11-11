@@ -26,8 +26,15 @@
 7.书中自有黄金屋
 >[e-book.blog.163.com](http://e-book.blog.163.com/)
 
-8.推荐！国外程序员整理的 C++ 资源大全
->[blog.jobbole.com](http://blog.jobbole.com/78901/)
-
-9.it2048/free-programming-books-zh_CN
+8.it2048/free-programming-books-zh_CN
 >[it2048/free-programming-books-zh_CN](https://github.com/it2048/free-programming-books-zh_CN)
+
+9.Netkiller 系列电子书
+>[netkiller.cn](http://www.netkiller.cn/)
+
+10.周读
+>[ireadweek.com](http://ireadweek.com/index.php/Index/index.html)
+
+11.去转盘网 
+>[quzhuanpan.com](http://www.quzhuanpan.com/source/loadSourceList.do?type=3)
+
