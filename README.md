@@ -38,3 +38,25 @@
 11.去转盘网 
 >[quzhuanpan.com](http://www.quzhuanpan.com/source/loadSourceList.do?type=3)
 
+12.IT eBooks
+>[it-ebooks.info](http://www.it-ebooks.info/)
+
+13.isbn.directory
+>[isbn.directory](http://isbn.directory/)
+
+14.看看豆
+>[kankandou.com](https://kankandou.com/)
+
+15.Kindle伴侣
+>[kindlefere.com](https://kindlefere.com/ebook)
+
+16.www.amazon.cn 免费电子书
+>[www.amazon.cn](https://www.amazon.cn/Kindle%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6/b/ref=sa_menu_kindle_l3_b116175071?ie=UTF8&node=116175071)
+
+17.七彩英语
+>[qcenglish.com](http://www.qcenglish.com/)
+
+18.掌上书苑
+>[cnepub.com](https://www.cnepub.com/store)
+
+
