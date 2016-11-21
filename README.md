@@ -57,6 +57,11 @@
 >[qcenglish.com](http://www.qcenglish.com/)
 
 18.掌上书苑
->[cnepub.com](https://www.cnepub.com/store)
+>[cnepub.com](https://www.cnepub.com/store)  
+  
+19.ebook-dl  
+>[ebook-dl.com](http://ebook-dl.com/)  
 
+20.it-ebooks.directory  
+>[it-ebooks.directory](http://it-ebooks.directory/)  
 
