@@ -65,3 +65,9 @@
 20.it-ebooks.directory  
 >[it-ebooks.directory](http://it-ebooks.directory/)  
 
+21.broadview.com.cn
+>[broadview.com.cn](http://www.broadview.com.cn/book?tab=ebook)  
+
+22.doco.co
+>[http://doco.co/](http://doco.co/)
+
